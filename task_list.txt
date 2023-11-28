@@ -1,0 +1,11 @@
+Avoid Plastic Bags,hellyeah.png,10,150
+Purchasing Metal Straws,hellyeah.png,1,300
+Purchasing Paper Straws,hellyeah.png,1,100
+Purchasing Reusable Fabric Bags,hellyeah.png,1,300
+Using Metal or Paper Straws,hellyeah.png,10,100
+Purchasing Native Plants,hellyeah.png,1,600
+Volunteer @ A Non-Profit,hellyeah.png,1,1000
+Purchasing an EV,hellyeah.png,1,10000,
+Purchasing an E-bike,hellyeah.png,1,1000
+Charging an EV or E-bike,hellyeah.png,5,400
+Dispose Waste Responsibly,hellyeah.png,3,300
